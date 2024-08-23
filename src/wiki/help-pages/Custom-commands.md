@@ -5,8 +5,7 @@ eleventyNavigation:
 ---
 
 <div class="row">
-  <div class="column">
-      {% image "Custom Commands tab in settings", "./src/img/screenshots/SettingsCustomCommandsLight.png", "./src/img/screenshots/SettingsCustomCommandsDark.png" %}
+  <div clas", "./src/img/screenshots/SettingsCustomCommandsDark.png" %}
   </div>
 </div>
 
